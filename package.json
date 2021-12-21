@@ -1,6 +1,6 @@
 {
 	"name": "@anicoll/grpc-ts-middleware",
-	"version": "1.0.0",
+	"version": "1.0.12",
 	"description": "gRPC pre-call and post-call middleware",
 	"main": "src/index.js",
 	"scripts": {
